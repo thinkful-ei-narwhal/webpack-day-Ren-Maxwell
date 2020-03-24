@@ -1,4 +1,4 @@
-import item from "./item.js";
+import item from './item';
 
 const items = [];
 const hideCheckedItems = false;
@@ -37,7 +37,6 @@ function findAndDelete(id) {
 function toggleCheckedFilter() {
   this.hideCheckedItems = !this.hideCheckedItems;
 }
-
 
 export default {
   items,
