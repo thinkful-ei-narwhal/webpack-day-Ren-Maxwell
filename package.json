@@ -1,0 +1,25 @@
+{
+  "name": "webpack-day-ren-maxwell",
+  "version": "1.0.0",
+  "description": "this thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-narwhal/webpack-day-Ren-Maxwell.git"
+  },
+  "keywords": [
+    "stuf"
+  ],
+  "author": "Ren F, Maxwell R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-narwhal/webpack-day-Ren-Maxwell/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-narwhal/webpack-day-Ren-Maxwell#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
